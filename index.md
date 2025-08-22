@@ -11,6 +11,7 @@ Below is a list of all documented projects. Click on the link for each project t
 * [**Project 1: Quiz Game on Capitals**](https://t.ly/2EZ2N): A fun and interactive quiz game that tests your knowledge of world capitals.  
 * [**Project 2: 1D Quantum Equation**](https://samin-yasar.github.io): A program that simulates the one-dimensional time-dependent Schrödinger equation to demonstrate quantum phenomena.  
 * [**Project 3: Overkillr**](https://samin-yasar.github.io): A text-processing tool that replaces words with their more "glorified" and "intensified" versions.
+* [**Project 4: Rock, Paper, & Scissors**](https://t.ly/N1HIz): Traditional rock, paper & scissors game with excitement. 
 
 ### **How to Navigate**
 
