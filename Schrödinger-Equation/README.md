@@ -1,6 +1,6 @@
 # **1D Time-Dependent Schrödinger Equation Solver**
 
-This Python application simulates the time evolution of a particle in a one-dimensional box. It demonstrates fundamental quantum phenomena such as **quantum tunneling**, and calculates key properties like **position** and **momentum expectation values**.
+This Python application simulates the time evolution of a particle in a one-dimensional box. It demonstrates fundamental quantum phenomena such as **quantum tunneling**, and calculates key properties like **position** and **momentum expectation values**. 
 
 ## **Features**
 
