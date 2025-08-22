@@ -70,7 +70,6 @@ Data files are saved as `wavefunction_t0.txt`, `wavefunction_t<mid>.txt`, and `w
 - **GUI/Web Interface**: Develop an interactive GUI or web app.  
 - **Advanced Potentials**: Extend to double wells and other potentials.  
 - **Error Handling**: Add stricter validation (e.g., barrier must fit inside box).
-- 
 
 ### Important Note for Code in Place Implementation
 
