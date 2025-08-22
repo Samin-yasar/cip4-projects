@@ -73,4 +73,4 @@ Data files are saved as `wavefunction_t0.txt`, `wavefunction_t<mid>.txt`, and `w
 
 ### Important Note for Code in Place Implementation
 
-This program's full functionality, including the saving of wavefunction data to `.txt` files, is designed for a standard Python environment. Due to the sandboxed nature of the Code in Place IDE, file-saving operations are not supported, and this part of the code will not function. The rest of the program's core features, such as the console output and calculations, will work as described.
+This program's full functionality, including the saving of wavefunction data to `.txt` files, is designed for a standard Python environment. Due to the sandboxed nature of the Code in Place IDE, file-saving operations are not supported, and this part of the code will not function. The rest of the program's core features, such as the console output and calculations, will work as described. Check [Code in Place](https://codeinplace.stanford.edu/cip4/share/XvcOx4b3aESAdLDbro7T) project now!
