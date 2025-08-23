@@ -32,6 +32,10 @@ To run this game, you need to have Python 3 installed on your system.
 * **data.py**: A separate file that stores the dictionaries of countries and capitals used for the quiz questions.  
 * **highscore.txt**: A file created by the game to store the high score.
 
+## **Code in Place Limitation
+
+This program's full functionality, including the saving of result data to `.txt` files, is designed for a standard Python environment. Due to the sandboxed nature of the Code in Place IDE, file-saving operations are not supported, and this part of the code will not function. The rest of the program's core features, such as the console output, will work as described.
+
 ## **✍️ Author**
 
 This game was developed by [Samin Yasar](https://samin-yasar.github.io) as a fun project to practice Python programming concepts especially for Code in Place IDE. Check [Code in Place](https://codeinplace.stanford.edu/cip4/share/zea1uKJ6DiPl21uMD7ei)
